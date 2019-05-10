@@ -1,0 +1,59 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+	
+	}
+	body,html{
+		width: 100%;
+		height: 100%;
+	}
+hr{
+	max-width: 65px;
+}
+
+
+h1{ 
+	font-weight: bold;
+
+}
+header.startup{
+	background-position: center;
+	background-image: url("https://www.wallpaperup.com/uploads/wallpapers/2013/02/19/41988/d4f5038202f1efd8719009cd0811211e.jpg");
+    background-size: cover;
+	
+    height:100%;
+}
+.image{
+	margin:5px auto 3px;
+	display: block;
+
+}
+
+header.startup hr{
+	margin-top: 200px;
+	margin-bottom: 0px;
+}
+header.startup h1{
+	font-size: 2rem;
+}
+.btn{
+	font-weight: 700;
+	
+	border-radius: 300px;
+	font-family: 'Montserrat', sans-serif;
+
+}
+.btn-x1{
+	padding:1rem 2rem;
+}
+.btn-primary{
+	background-color: #F05F44;
+	border-color: #F05F44; }
+	.btn-primary:hover {
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 5px;
+  cursor: pointer;
+}
+
+
+
